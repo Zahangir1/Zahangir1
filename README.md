@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/1da985bb9c759cb27cc6ba6ef9a05f35e27c8c5b33c03de1a4bafede6d6e7b23/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+  <img src="https://camo.githubusercontent.com/1da985bb9c759cb27cc6ba6ef9a05f35e27c8c5b33c03de1a4bafede6d6e7b23/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
 </div>
