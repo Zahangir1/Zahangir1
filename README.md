@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <h4>A passionate software tester, working with SELISE Digital Platforms</h4>
+  <h3>A passionate software tester, working with SELISE Digital Platforms</h3>
 </div>
 
                                                                   
