@@ -33,17 +33,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-### :fire: My Stats :
-
- <table align="left" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[your-gihub-username]&theme=github_dark" alt="yourName's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-gihub-username]&theme=merko" alt="yourName's Contribution States"/></td>  
-    </tr>
- </table>
- 
- <table align="center" width="100%" height="100%">
-     <tr>
-     <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-gihub-username]&layout=compact&theme=vision-friendly-dark" alt="yourName's Github States"/></td>
-    </tr>
- </table>
