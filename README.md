@@ -1,10 +1,7 @@
-                                                                  ## Hi 👋, I'm Zahangir Alam
-                               A passionate software tester, working with SELISE Digital Platforms in Switzerland based FinTech platform additiv
+                                                                  <h1> Hi 👋, I'm Zahangir Alam </h1>
+                                                                  
+                              <h3>A passionate software tester, working with SELISE Digital Platforms in Switzerland based FinTech platform additiv</h3>
 
-
-**Zahangir1/Zahangir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>Cypress, Selenium, Appium, Jenkins, JMeter, Postman API Testing, VAPT Testing, OWASP</b>
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
