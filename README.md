@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <h3>A passionate software tester, working with SELISE Digital Platforms in Switzerland based FinTech platform additiv</h3>
+  <h3>A passionate software tester, working with SELISE Digital Platforms in Switzerland</h3>
 </div>
 
                                                                   
