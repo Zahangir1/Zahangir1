@@ -3,10 +3,14 @@
   <h1> Hi 👋, I'm Zahangir Alam </h1>
 </div>
 
+<div id="header" align="center">
+  <h3>A passionate software tester, working with SELISE Digital Platforms in Switzerland based FinTech platform additiv</h3>
+</div>
+
                                                                   
-                                                                  <h1> Hi 👋, I'm Zahangir Alam </h1>
+              
                                                                   
-                              <h3>A passionate software tester, working with SELISE Digital Platforms in Switzerland based FinTech platform additiv</h3>
+                              
 
 
 - 🔭 I’m currently working on <b>Cypress, Selenium, Appium, Jenkins, JMeter, Postman API Testing, VAPT Testing, OWASP</b>
