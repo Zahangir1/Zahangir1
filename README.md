@@ -22,11 +22,9 @@
 - 🔭 I’m currently working on <b>Cypress, Selenium, Appium, Jenkins, JMeter, Postman API Testing, VAPT Testing, OWASP</b>
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
 - 👯 I’m looking to collaborate on <b>Cypress, Selenium, Playwright</b>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about
 - 📫 You can reach me at: <a>zasqalead@gmail.com</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
