@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
 - 👯 I’m looking to collaborate on <b>Cypress, Selenium, Playwright</b>
 - 👨‍💻 All of my projects are available at https://github.com/Zahangir1
-- 💬 Ask me about <b>Testing Process, Cypress, Selenium,Appium, BDD Framework SetUp, CI/CD</b>
+- 💬 Ask me about <b>Testing Process, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
 - 📫 You can reach me at: <a>zasqalead@gmail.com</a>
   
 
