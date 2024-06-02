@@ -15,7 +15,7 @@
 </div>
 
 <div id="header" align="center">
-  <h3>A passionate software tester, working with SELISE Digital Platforms</h3>
+  <h3>A passionate Senior Product Acceptance Analyst (QA Automation Engineer), working with SELISE Digital Platforms</h3>
 </div>
                    
 
