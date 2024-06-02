@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
 - 👯 I’m looking to collaborate on <b>Cypress, Selenium, Appium, Jenkins</b>
 - 👨‍💻 All of my projects are available at <b><a>https://github.com/Zahangir1</a></b>
-- 💬 Ask me about <b>Testing Process, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
+- 💬 Ask me about <b>Testing Proces, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
 - 📫 You can reach me at <b><a>zasqalead@gmail.com</a></b>
   
 
