@@ -16,9 +16,9 @@
 - 🔭 I’m currently working on <b>Cypress, Selenium, Appium, Jenkins, JMeter, Postman API Testing, VAPT Testing, OWASP</b>
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
 - 👯 I’m looking to collaborate on <b>Cypress, Selenium, Appium, Jenkins</b>
-- 👨‍💻 All of my projects are available at https://github.com/Zahangir1
+- 👨‍💻 All of my projects are available at <b><a>https://github.com/Zahangir1</a></b>
 - 💬 Ask me about <b>Testing Process, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
-- 📫 You can reach me at: <a>zasqalead@gmail.com</a>
+- 📫 You can reach me at: <b><a>zasqalead@gmail.com</a></b>
   
 
 ### :hammer_and_wrench: Languages and Tools :
