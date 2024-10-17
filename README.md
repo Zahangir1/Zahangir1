@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on <b>Cypress, Selenium, Appium, Jenkins</b>
 - 👨‍💻 All of my projects are available at <b><a>https://github.com/Zahangir1</a></b>
 - 💬 Ask me about <b>Testing Proces, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
-- 📫 You can reach me at <b><a>zasqalead@gmail.com</a></b>
+- 📫 You can reach me at <b><a>zahangir.alam@selisegroup.com</a></b>
   
 
 ### :hammer_and_wrench: Languages and Tools :
