@@ -13,7 +13,7 @@
 </div>
                    
 
-- 🔭 I’m currently working on <b>Cypress, Selenium, Appium, Jenkins, JMeter, Postman API Testing, VAPT Testing, OWASP</b>
+- 🔭 I’m currently working on <b>Playwright, Cypress, Maestro, Selenium, Appium, Github Actions, Jenkins, JMeter, k6, Postman API Testing, VAPT Testing, OWASP</b>
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
 - 👯 I’m looking to collaborate on <b>Cypress, Selenium, Appium, Jenkins</b>
 - 👨‍💻 All of my projects are available at <b><a>https://github.com/Zahangir1</a></b>
