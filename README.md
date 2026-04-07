@@ -15,10 +15,10 @@
 
 - 🔭 I’m currently working on <b>Playwright, Cypress, Maestro, Selenium, Appium, Github Actions, Jenkins, JMeter, k6, Postman API Testing, VAPT Testing, OWASP</b>
 - 🌱 I’m currently learning <b>new automation tools & techniques</b>
-- 👯 I’m looking to collaborate on <b>Cypress, Selenium, Appium, Jenkins</b>
+- 👯 I’m looking to collaborate on <b>Playwright, Cypress, Selenium, Appium, Maestro, Jenkins, K6</b>
 - 👨‍💻 All of my projects are available at <b><a>https://github.com/Zahangir1</a></b>
-- 💬 Ask me about <b>Testing Process, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
-- 📫 You can reach me at <b><a>zahangir.alam@selisegroup.com</a></b>
+- 💬 Ask me about <b>Testing Process, Playwright, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
+- 📫 You can reach me at <b><a>alamzahangir365@gmail.com, zahangir.alam@selisegroup.com</a></b>
   
 
 ### :hammer_and_wrench: Languages and Tools :
