@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on <b>Playwright, Cypress, Selenium, Appium, Maestro, Jenkins, K6</b>
 - 👨‍💻 All of my projects are available at <b><a>https://github.com/Zahangir1</a></b>
 - 💬 Ask me about <b>Testing Process, Playwright, Cypress, Selenium, Appium, BDD Framework SetUp, CI/CD</b>
-- 📫 You can reach me at <b><a>alamzahangir365@gmail.com, zahangir.alam@selisegroup.com</a></b>
+- 📫 You can reach me at <b><a>alamzahangir365@gmail.com, zasqalead@gmail.com</a></b>
   
 
 ### :hammer_and_wrench: Languages and Tools :
